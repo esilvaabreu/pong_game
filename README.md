@@ -51,6 +51,13 @@ Commit your changes and push them to your fork.
 
 Open a pull request for review.
 
+## ✨ Future Enhancement
+-> Add an option to select the difficult level, changing the ball's speed;
+
+-> Add a single-player mode, where would be possible to play against an IA;
+
+-> Include a start menu and some customizations for the paddles and the ball, such as color, format, etc.
+
 ## 🧑‍💻 Author
 This game was created by Eliseu Silva de Abreu as a fun learning project in Python. Feel free to reach out or leave feedback!
 
